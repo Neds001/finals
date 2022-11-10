@@ -12,17 +12,17 @@
  <body style="background: cadetblue;">
  	<div class="container">
 		<a href="index.php" class="text-light"><button class="btn btn-primary my-5">Add user</button></a>
-		<table class="table">
+		<table class="table" style="background-color: white;">
   			<thead>
-			    <tr>
-			      <th scope="col">ID</th>
-			      <th scope="col">Name</th>
-			      <th scope="col">Email</th>
-			      <th scope="col">Mobile</th>
-			      <th scope="col">ID number</th>
-			      <th scope="col">Address</th>
-			      <th scope="col">Course</th>
-			      <th scope="col">Action</th>
+			    <tr style="background: linear-gradient(#141e30, #243b55);">
+			      <th scope="col" style="color: white;">ID</th>
+			      <th scope="col" style="color: white;">Name</th>
+			      <th scope="col" style="color: white;">Email</th>
+			      <th scope="col" style="color: white;">Mobile</th>
+			      <th scope="col" style="color: white;">ID number</th>
+			      <th scope="col" style="color: white;">Address</th>
+			      <th scope="col" style="color: white;">Course</th>
+			      <th scope="col" style="color: white;">Action</th>
 			    </tr>
 			  </thead>
 			  <tbody>
